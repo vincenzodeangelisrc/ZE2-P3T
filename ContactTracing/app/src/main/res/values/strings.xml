@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Contact Tracing</string>
+    <string name="ble_uuid">0000FEAA-0000-1000-8000-00805F9B34FB</string>
+    <string name="next">Avanti</string>
+    <string name="message_privacy">Procedendo accetti i termini delle condizioni e la privacy policy</string>
+    <string name="start">Inizia</string>
+    <string name="benvenuto">Benvenuto!</string>
+    <string name="welcome_text">Con il contributo di tutti possiamo aiutare a contenere la diffusione del COVID-19</string>
+    <string name="welcome2">Ci prendiamo cura delle persone</string>
+    <string name="welcome_text2">Se hai avuto dei contatti a rischio con un utente risultato positivo al virus, ti avvertiamo per proteggere la tua salute e quella degli altri.</string>
+    <string name="welcome3">La tua privacy è tutelata</string>
+    <string name="welcome_text3">L\'applicazione non raccoglie informazioni personali di alcun tipo, inoltre non è in grado di conoscere la tua identità nè quella delle persone con cui entri in contatto.</string>
+    <string name="welcome4">Proteggi il tuo dispositivo</string>
+    <string name="welcome_text4">L\'uso delle applicazioni di Digital Contact Tracing sono strettamente personali. Proteggi il tuo dispositivo con un pin o un codice di sblocco per impedire ad altri utenti di accedere alle tue notifiche.</string>
+    <string name="welcome5">Fai attenzione al phishing</string>
+    <string name="welcome_text5">L\'applicazione comunicherà con te solo attraverso l\'app stessa. Diffida da qualunque SMS, telefonata, email o altro tipo di avviso, soprattutto se chiedono informazioni personali.</string>
+    <string name="main_title">Stop Covid.</string>
+    <string name="main_subtitle">Servizio attivo.</string>
+    <string name="positive_text_btn">Segnala positività</string>
+    <string name="title_indicazioni">Indicazioni da seguire</string>
+    <string name="text_mask_indication">Indossa sempre una mascherina nei luoghi al chiuso e accessibili al pubblico.</string>
+    <string name="text_distance_indication">Assicura una distanza fisica di almeno 1 metro con le altre persone, se questa distanza non può essere garantita, indossare una mascherina.</string>
+    <string name="text_gatherings_indication">Evita i luoghi affollati, gli ambienti chiusi con scarsa ventilazione e la distanza ravvicinata.</string>
+    <string name="text_wash_indication">Lavati spesso le mani o quando si è fuori casa igienizzale con soluzioni idroalcoliche.</string>
+    <string name="text_cough_indication">Starnutisci e/o tossisci in un fazzoletto evitando il contatto delle mani con le secrezioni respiratorie.</string>
+    <string name="text_infected_indication">Se si presentano sintomi, restare in casa, non recarsi al pronto soccorso. Chiama il medico di famiglia o  il numero verde regionale.</string>
+    <string name="title_positive">Notifica positività</string>
+    <string name="description_positive">Se hai scoperto di essere positivo all\'infezione, segnala la tua positivà. Attraverso il sistema possiamo contattare le persone che hanno avuto contatti a rischio. Gli altri utenti non possono conoscere la tua identità.</string>
+</resources>
